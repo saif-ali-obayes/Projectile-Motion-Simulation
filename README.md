@@ -19,7 +19,7 @@ Clone the repository and run the simulation locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/saif-ali-obayes/Projectile-Motion-Simulation.git](https://github.com/saif-ali-obayes/Projectile-Motion-Simulation.git)
+git clone https://github.com/saif-ali-obayes/Projectile-Motion-Simulation.git
 
 # Navigate to project directory
 cd Projectile-Motion-Simulation
